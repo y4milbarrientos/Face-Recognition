@@ -61,9 +61,6 @@ and the ResNet architecture. Extracts feature vectors of detect
 
 ## Instalation of diferent libraries we used
 
-Proveer de una guía paso a paso con ejemplos sobre como obtener un ambiente de desarrollo corriendo con el presente repositorio. 
-En el caso de tener varios repositorios, realizar la guía correspondiente para cada uno.
-
 * Instalation torch:
 * * 1. Open code terminal
 * * 2. Run the following command
