@@ -1,6 +1,5 @@
 # Student attendance record using facial recognition
  
-Responder lo siguiente: ¿Qué hace el proyecto? ¿De que se trata? ¿Qué componentes tiene?
 The facial recognition roll call project uses facial recognition technology to identify 
 and verify the identity of people, streamlining and improving the roll call process 
 in various situations, that's what we are doing with this project. We aplly the necesary methods
