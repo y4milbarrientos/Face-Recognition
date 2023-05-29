@@ -14,6 +14,8 @@ We used the next method mentionated:
 • And finally used a multiple images of all four group members that have been included to 
 create reference feature vectors for each person.
 
+# Face recognition 
+
 Additional techniques or algorithms that qe used are:
 
 • MTCNN: It is a model based on convolutional neural networks that consists of three stages: 
