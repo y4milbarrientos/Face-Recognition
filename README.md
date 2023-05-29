@@ -50,7 +50,7 @@ of facial recognition technology to identify and verify the identity of people q
 - CPU.
 - Camera.
 
-## Funcionalidades mas importantes
+## Most important features
 
 In this project, the MTCNN model is used for face detection and extraction, while the 
 InceptionResnetV1 model is used for feature extraction from the detected faces.
