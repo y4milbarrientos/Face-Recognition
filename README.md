@@ -1,4 +1,4 @@
-# Titulo del Proyecto
+# Face recognition
 Una pequeña descripción sobre su proyecto. 
 Responder lo siguiente: ¿Qué hace el proyecto? ¿De que se trata? ¿Qué componentes tiene?
 
